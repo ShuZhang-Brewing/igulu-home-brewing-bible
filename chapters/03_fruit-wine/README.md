@@ -2,7 +2,7 @@
 
 > *"From the orchard and the vine, patience yields its sweetest reward."*
 
-Welcome to **Orchard & Vine** — the third book of *The Brewing Bible*.
+Welcome to **Orchard & Vine** — the third book of the *iGulu Home Brewing Bible*.
 
 If *Book II · Craft Beer* is humanity's oldest answer to the question "what shall we do with grain?", then this book is the oldest answer to "what shall we do with fruit?" Long before commercial wineries, before grape monoculture, before stainless steel — there were jars of plums and rice and honey and elderberries, fermenting quietly in the corner of a kitchen. This is the most universal fermentation tradition on Earth, practiced on every continent, by every culture, for at least eight thousand years.
 
@@ -85,4 +85,4 @@ This chapter is currently a placeholder. Founding-contributor draft recipes will
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The iGulu Home Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded by [Shu Zhang](https://github.com/iGulu666), founder of [iGulu](https://igulu.com).*
