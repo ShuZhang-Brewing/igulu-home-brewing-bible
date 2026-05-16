@@ -2,7 +2,7 @@
 
 > *"What lives in the jar lived in your grandmother's jar — and her grandmother's before her."*
 
-Welcome to **The Living Culture** — the fourth book of *The Brewing Bible*.
+Welcome to **The Living Culture** — the fourth book of the *iGulu Home Brewing Bible*.
 
 This is the most quietly universal book in the Bible. While *Book II · Craft Beer* and *Book III · Orchard & Vine* require specific raw ingredients and a degree of preparation, the ferments in this book are made from what's already in most kitchens — milk, water, vegetables, tea, sugar. And yet, they are the ferments that travel most easily across generations: a SCOBY passed from neighbor to neighbor, a jar of grandmother's sauerkraut, a starter culture that has lived in a single family for a hundred years.
 
@@ -78,14 +78,14 @@ We are **less likely** to merge contributions that:
 - Provide unsafe wild-fermentation guidance (e.g., raw dairy without proper safety context)
 - Promote specific commercial probiotic supplements over open methods
 
-See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) and [`TEMPLATE.md`](../../TEMPLATE.md) at the repository root for the standard chapter format.
+See [\`CONTRIBUTING.md\`](../../CONTRIBUTING.md) and [\`TEMPLATE.md\`](../../TEMPLATE.md) at the repository root for the standard chapter format.
 
 ---
 
 ## Status
 
-This chapter contains early draft recipes (milk kefir, water kefir, kvass) in their Chinese-language draft form. Translation and review for English-first publication is in progress. To author or review Book IV material, please open an issue with the label `book-iv-living-culture`.
+This chapter contains early draft recipes (milk kefir, water kefir, kvass) in their Chinese-language draft form. Translation and review for English-first publication is in progress. To author or review Book IV material, please open an issue with the label \`book-iv-living-culture\`.
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The iGulu Home Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded by [Shu Zhang](https://github.com/iGulu666), founder of [iGulu](https://igulu.com).*
