@@ -1,27 +1,115 @@
-Copyright (c) 2026 CytoEvo Inc. All Rights Reserved.
+The Brewing Bible
+Copyright (c) 2026 Shu Zhang and contributors.
 
-PROPRIETARY AND CONFIDENTIAL
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
-This repository and all content contained herein ("Content") is the proprietary and confidential information of CytoEvo Inc. ("iGulu"). All Content is protected by copyright and other intellectual property laws.
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-PERMITTED USE
-Contributors who have signed the iGulu Home Brewing Bible Contributor License Agreement (CLA.md) may access, read, and contribute to this repository solely for the purpose of submitting original content to the iGulu Home Brewing Bible project.
+================================================================================
 
-RESTRICTIONS
-Except as expressly permitted above, no part of this repository or its Content may be:
-- Reproduced, copied, or duplicated in any form
-- Distributed, published, or publicly displayed
-- Modified, translated, or used to create derivative works
-- Used for commercial purposes
-- Shared, forwarded, or transmitted to any third party
+SUMMARY (informational only — the legal text below is authoritative)
 
-without the prior written permission of CytoEvo Inc.
+You are free to:
 
-CONTRIBUTOR CONTENT
-Content submitted by contributors is licensed to CytoEvo Inc. under the terms of the Contributor License Agreement (CLA.md). Contributors retain copyright ownership of their submitted content but grant CytoEvo Inc. an exclusive, worldwide, perpetual, irrevocable license to use such content as described in the CLA.
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material
 
-NO WARRANTY
-THIS REPOSITORY IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+Under the following terms:
 
-CONTACT
-For licensing inquiries, please contact: legal@igulu.com
+  * Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+  * NonCommercial — You may not use the material for commercial purposes.
+
+  * ShareAlike — If you remix, transform, or build upon the material, you
+    must distribute your contributions under the same license as the
+    original.
+
+  * No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in
+the public domain or where your use is permitted by an applicable exception
+or limitation.
+
+No warranties are given. The license may not give you all of the permissions
+necessary for your intended use. For example, other rights such as
+publicity, privacy, or moral rights may limit how you use the material.
+
+================================================================================
+
+ADDITIONAL NOTES SPECIFIC TO THIS PROJECT
+
+1. Maintainer's Commercial Rights
+
+   Notwithstanding the NonCommercial clause above, the project maintainer,
+   Shu Zhang, holds additional commercial rights granted by contributors
+   under the project's Contributor License Agreement (see CLA.md).
+   These rights allow the maintainer to:
+
+     - Publish commercial printed editions of The Brewing Bible
+     - License the content for inclusion in commercial products,
+       services, and platforms (including but not limited to iGulu
+       hardware and software)
+     - Offer paid subscription services derived from the content
+     - Sublicense the content to commercial partners
+
+   These maintainer-only commercial rights do not affect the public's
+   rights under CC BY-NC-SA 4.0. The open-source content remains freely
+   available to everyone in perpetuity.
+
+2. Contributors Retain Ownership
+
+   Contributors retain full copyright over their submitted content.
+   Contributing to The Brewing Bible does not transfer ownership of any
+   contribution. Contributors are free to use, publish, sell, or
+   otherwise exploit their own work elsewhere.
+
+3. Attribution Practice
+
+   When the work or any substantial portion of it is used or adapted, the
+   following attribution is recommended:
+
+     "Based on The Brewing Bible, maintained by Shu Zhang and contributors,
+      licensed under CC BY-NC-SA 4.0.
+      https://github.com/iGulu666/igulu-home-brewing-bible"
+
+4. Trademark Notice
+
+   "The Brewing Bible" name and associated logos are not licensed under
+   CC BY-NC-SA 4.0. Use of the name for derivative or fork projects is
+   not permitted without separate written permission from the maintainer.
+
+================================================================================
+
+CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-SHARELIKE 4.0 INTERNATIONAL
+PUBLIC LICENSE
+
+By exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Public License
+("Public License"). To the extent this Public License may be interpreted
+as a contract, You are granted the Licensed Rights in consideration of
+Your acceptance of these terms and conditions, and the Licensor grants
+You such rights in consideration of benefits the Licensor receives from
+making the Licensed Material available under these terms and conditions.
+
+The full legal text of CC BY-NC-SA 4.0 is incorporated here by reference
+and available at:
+
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+================================================================================
+
+For commercial licensing inquiries, please contact:
+  Shu Zhang (project maintainer) — via repository issues or
+  through CytoEvo Inc. at legal@igulu.com
+
+For questions about contributing, see CONTRIBUTING.md and CLA.md.
