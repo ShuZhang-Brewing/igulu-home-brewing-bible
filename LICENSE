@@ -1,4 +1,4 @@
-The Brewing Bible
+iGulu Home Brewing Bible
 Copyright (c) 2026 Shu Zhang and contributors.
 
 This work is licensed under the Creative Commons
@@ -50,11 +50,11 @@ ADDITIONAL NOTES SPECIFIC TO THIS PROJECT
 1. Maintainer's Commercial Rights
 
    Notwithstanding the NonCommercial clause above, the project maintainer,
-   Shu Zhang, holds additional commercial rights granted by contributors
-   under the project's Contributor License Agreement (see CLA.md).
-   These rights allow the maintainer to:
+   Shu Zhang (founder of iGulu), holds additional commercial rights granted
+   by contributors under the project's Contributor License Agreement (see
+   CLA.md). These rights allow the maintainer to:
 
-     - Publish commercial printed editions of The Brewing Bible
+     - Publish commercial printed editions of the iGulu Home Brewing Bible
      - License the content for inclusion in commercial products,
        services, and platforms (including but not limited to iGulu
        hardware and software)
@@ -68,8 +68,8 @@ ADDITIONAL NOTES SPECIFIC TO THIS PROJECT
 2. Contributors Retain Ownership
 
    Contributors retain full copyright over their submitted content.
-   Contributing to The Brewing Bible does not transfer ownership of any
-   contribution. Contributors are free to use, publish, sell, or
+   Contributing to the iGulu Home Brewing Bible does not transfer ownership
+   of any contribution. Contributors are free to use, publish, sell, or
    otherwise exploit their own work elsewhere.
 
 3. Attribution Practice
@@ -77,15 +77,16 @@ ADDITIONAL NOTES SPECIFIC TO THIS PROJECT
    When the work or any substantial portion of it is used or adapted, the
    following attribution is recommended:
 
-     "Based on The Brewing Bible, maintained by Shu Zhang and contributors,
-      licensed under CC BY-NC-SA 4.0.
+     "Based on the iGulu Home Brewing Bible, maintained by Shu Zhang and
+      contributors, licensed under CC BY-NC-SA 4.0.
       https://github.com/iGulu666/igulu-home-brewing-bible"
 
 4. Trademark Notice
 
-   "The Brewing Bible" name and associated logos are not licensed under
-   CC BY-NC-SA 4.0. Use of the name for derivative or fork projects is
-   not permitted without separate written permission from the maintainer.
+   "iGulu Home Brewing Bible" and "iGulu" names and associated logos are
+   not licensed under CC BY-NC-SA 4.0. Use of these names for derivative or
+   fork projects is not permitted without separate written permission from
+   the maintainer.
 
 ================================================================================
 
@@ -109,7 +110,6 @@ and available at:
 ================================================================================
 
 For commercial licensing inquiries, please contact:
-  Shu Zhang (project maintainer) — via repository issues or
-  through CytoEvo Inc. at legal@igulu.com
+  Shu Zhang (project maintainer and founder of iGulu) at legal@igulu.com
 
 For questions about contributing, see CONTRIBUTING.md and CLA.md.
