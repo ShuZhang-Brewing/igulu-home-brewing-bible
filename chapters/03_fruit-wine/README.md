@@ -1,8 +1,8 @@
-# Book III · Fruit Wine & Wine
+# Book III · Orchard & Vine
 
 > *"From the orchard and the vine, patience yields its sweetest reward."*
 
-Welcome to **Fruit Wine & Wine** — the third book of *The Brewing Bible*.
+Welcome to **Orchard & Vine** — the third book of *The Brewing Bible*.
 
 If *Book II · Craft Beer* is humanity's oldest answer to the question "what shall we do with grain?", then this book is the oldest answer to "what shall we do with fruit?" Long before commercial wineries, before grape monoculture, before stainless steel — there were jars of plums and rice and honey and elderberries, fermenting quietly in the corner of a kitchen. This is the most universal fermentation tradition on Earth, practiced on every continent, by every culture, for at least eight thousand years.
 
@@ -75,14 +75,14 @@ We are **less likely** to merge contributions that:
 - Skip critical safety steps (e.g., wild yeast fermentation without acidification guidance)
 - Use proprietary commercial wine kits without an open-source alternative
 
-See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) and [`TEMPLATE.md`](../../TEMPLATE.md) at the repository root for the standard chapter format.
+See [\`CONTRIBUTING.md\`](../../CONTRIBUTING.md) and [\`TEMPLATE.md\`](../../TEMPLATE.md) at the repository root for the standard chapter format.
 
 ---
 
 ## Status
 
-This chapter is currently a placeholder. Founding-contributor draft recipes will be merged in the coming weeks. To author or review Book III material, please open an issue with the label `book-iii-fruit-wine`.
+This chapter is currently a placeholder. Founding-contributor draft recipes will be merged in the coming weeks. To author or review Book III material, please open an issue with the label \`book-iii-orchard-vine\`.
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
