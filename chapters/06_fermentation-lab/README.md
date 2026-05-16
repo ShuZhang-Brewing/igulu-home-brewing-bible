@@ -2,7 +2,7 @@
 
 > *"Wood, salt, mold, time — and one day, a flavor older than your civilization."*
 
-Welcome to **Fermentation Lab** — the sixth and final book of *The Brewing Bible*.
+Welcome to **Fermentation Lab** — the sixth and final book of the *iGulu Home Brewing Bible*.
 
 This is the deepest book in the Bible. While *Book IV · The Living Culture* covers everyday probiotic ferments, this book ventures into the longest-aged, most patient, most culturally rooted fermentations on Earth — the umami-rich pastes, sauces, and wines that anchor whole cuisines, transform with seasons, and reward time measured in months and years rather than days.
 
@@ -79,14 +79,14 @@ We are **less likely** to merge contributions that:
 - Promote specific commercial koji or culture brands without open alternatives
 - Replicate well-documented recipes without new cultural or technical perspective
 
-See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) and [`TEMPLATE.md`](../../TEMPLATE.md) at the repository root for the standard chapter format.
+See [\`CONTRIBUTING.md\`](../../CONTRIBUTING.md) and [\`TEMPLATE.md\`](../../TEMPLATE.md) at the repository root for the standard chapter format.
 
 ---
 
 ## Status
 
-This chapter is currently being populated. Founding-contributor recipes for vinegar, white miso, and shio-koji are being prepared. To author or review Book VI material, please open an issue with the label `book-vi-fermentation-lab`.
+This chapter is currently being populated. Founding-contributor recipes for vinegar, white miso, and shio-koji are being prepared. To author or review Book VI material, please open an issue with the label \`book-vi-fermentation-lab\`.
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The iGulu Home Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded by [Shu Zhang](https://github.com/iGulu666), founder of [iGulu](https://igulu.com).*
