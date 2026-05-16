@@ -1,10 +1,10 @@
-# The Brewing Bible
+# iGulu Home Brewing Bible
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![CLA: required](https://img.shields.io/badge/CLA-required-blue.svg)](./CLA.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-The world's first open-source home brewing and fermentation knowledge base. 1,000+ recipes covering craft beer, wine, probiotics, cold-brew creations, and fermentation lab. Community-contributed, iGulu-powered.
+The open-source canonical reference for home brewing and fermentation. 1,000+ recipes covering craft beer, wine, probiotics, sparkling creations, and the fermentation lab. Device-neutral by design, community-contributed, founded by Shu Zhang.
 
 ---
 
@@ -23,9 +23,11 @@ The world's first open-source home brewing and fermentation knowledge base. 1,00
 
 ## About This Project
 
-The Brewing Bible is an **independent open-source project**, maintained by [Shu Zhang](https://github.com/iGulu666). It is the result of collaboration between brewers, fermenters, food scientists, and translators around the world.
+The **iGulu Home Brewing Bible** is an open-source reference for home brewing and fermentation, founded by [Shu Zhang](https://github.com/iGulu666) — also the founder of iGulu — and built with a global community of brewers, fermenters, food scientists, and translators.
 
-**iGulu** (CytoEvo Inc.) is the project's founding sponsor and the primary commercial implementer of the Brewing Bible protocol — iGulu hardware (including F1, M-series, and the upcoming F2) integrates Bible recipes natively. However, the Bible itself is **device-neutral by design**. Every recipe can be brewed on any equipment with comparable specifications.
+The Bible is licensed under [CC BY-NC-SA 4.0](./LICENSE). Anyone, anywhere, with any equipment, can read it, learn from it, and contribute to it.
+
+**iGulu hardware** (F1, M-series, F2) is the **easiest path** to reproduce these recipes — RFID recipe packs and AI fermentation control make Bible recipes one-tap operations. But the Bible is **device-neutral by design**: every recipe specifies the underlying parameters (temperature, time, sugar profile, fermentation curve) so a brewer with traditional equipment can reproduce it equally well.
 
 ---
 
@@ -48,17 +50,17 @@ Provided that you:
 
 ### There Will Be a Printed Edition
 
-A commercial printed edition of *The Brewing Bible* is planned for future publication, edited and released by the maintainer. Contributors to this repository should be aware that their submissions may appear in this and future printed editions, with their authorship credited.
+A commercial printed edition of the *iGulu Home Brewing Bible* is planned for future publication, edited and released by the maintainer. Contributors to this repository should be aware that their submissions may appear in this and future printed editions, with their authorship credited.
 
 ### Your Name Travels with Your Work
 
-Every contributor receives credit on every recipe they contribute — in this repository, on the iGulu Recipe Center, and in any printed edition derived from this project.
+Every contributor receives credit on every recipe they contribute — in this repository, on iGulu platforms, and in any printed edition derived from this project.
 
 **Founding Contributors** (the first 50) and **Master Brewers** (contributors who reach the highest community tier) receive permanent acknowledgment on the title pages of the printed edition.
 
 ### You Retain the Right to Use Your Own Work Elsewhere
 
-Contributing to the Bible does not transfer ownership of your work. You can publish your recipes on your own blog, in your own book, or anywhere else you'd like. We just ask that you don't use the Bible's name or branding for those independent projects.
+Contributing to the Bible does not transfer ownership of your work. You can publish your recipes on your own blog, in your own book, or anywhere else you'd like. We just ask that you don't use the *iGulu Home Brewing Bible* name or branding for those independent projects.
 
 For full terms, see [CLA.md](./CLA.md). For how to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
@@ -108,7 +110,7 @@ Full details: [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 - **Content** (recipes, articles, illustrations): [CC BY-NC-SA 4.0](./LICENSE)
 - **Code** (scripts, schemas, tooling): MIT *(when applicable; see individual file headers)*
-- **Trademarks**: "The Brewing Bible" name and associated marks are not licensed under CC BY-NC-SA. Derivative or fork projects may use the content but must adopt a different name.
+- **Trademarks**: "iGulu Home Brewing Bible" and "iGulu" names and associated marks are not licensed under CC BY-NC-SA. Derivative or fork projects may use the content but must adopt a different name.
 - **Commercial licensing inquiries**: open a GitHub Issue or email `legal@igulu.com`
 
 ---
@@ -117,10 +119,9 @@ Full details: [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 This project exists because home fermentation has always been a gift-economy practice. Generations of brewers, picklers, vintners, and microbe whisperers have shared their knowledge freely — through forums, family recipes, late-night conversations at the bar. The Bible simply tries to collect, preserve, and structure that gift.
 
-**Maintained by** [Shu Zhang](https://github.com/iGulu666)
-**Founded with support from** [iGulu](https://igulu.com)
+**Founded and maintained by** [Shu Zhang](https://github.com/iGulu666) (founder of [iGulu](https://igulu.com))
 **Written by** the global community of brewers and fermenters listed in our [Contributors](./CONTRIBUTORS.md) file.
 
 ---
 
-*The Brewing Bible — Free forever, in print soon.*
+*iGulu Home Brewing Bible — Free forever, in print soon.*
