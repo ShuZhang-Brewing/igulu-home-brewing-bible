@@ -1,0 +1,53 @@
+name: ⚖️ CLA or Licensing Question
+description: Ask about the Contributor License Agreement, CC BY-NC-SA 4.0, commercial usage, or any legal/licensing aspect of the project.
+title: "[CLA Question] <your question topic>"
+labels: ["cla-question", "needs-maintainer"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome. Licensing and contribution terms can be confusing, especially for first-time open-source contributors. Ask freely — the maintainer will respond personally to every question in this category.
+        
+        **Before posting, please skim**:
+        - [LICENSE](../../blob/main/LICENSE) (CC BY-NC-SA 4.0 with maintainer commercial rights)
+        - [CLA.md](../../blob/main/CLA.md) (the plain-English TL;DR at the top often answers most questions)
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: What is your question about?
+      options:
+        - "What rights do I keep over my own contribution?"
+        - "Can I use my contribution elsewhere (blog, book, product)?"
+        - "What does the commercial license to the maintainer allow?"
+        - "How does CC BY-NC-SA 4.0 affect non-commercial reuse?"
+        - "I want to use Bible content commercially — how do I get permission?"
+        - "I want to fork or translate the Bible"
+        - "I'm an organization (university, publisher, etc.) with a special request"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: Be as specific as you can. The maintainer will respond personally.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Relevant context (optional)
+      description: Are you about to contribute? Are you considering a commercial use case? Are you a student researcher? Knowing the context helps give a useful answer.
+    validations:
+      required: false
+
+  - type: input
+    id: github-username
+    attributes:
+      label: Your GitHub username (optional)
+      placeholder: "@your-username"
+    validations:
+      required: false
