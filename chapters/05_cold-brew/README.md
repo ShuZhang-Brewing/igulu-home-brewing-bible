@@ -2,7 +2,7 @@
 
 > *"Cold water, rising bubbles, and the spirit of invention."*
 
-Welcome to **Sparkling Creations** — the fifth book of *The Brewing Bible*.
+Welcome to **Sparkling Creations** — the fifth book of the *iGulu Home Brewing Bible*.
 
 This is the most **modern** book in the Bible — the one closest to the 21st-century kitchen, the home bar, and the way young brewers actually drink today. If *Book II · Craft Beer* and *Book III · Orchard & Vine* honor centuries-old traditions, this book honors a tradition that is still being invented: the cold-brew movement, the sparkling-water renaissance, the rise of hard seltzer, the Sober Curious wave, the home cocktail revival. It is the book of *creating* drinks rather than merely *brewing* them.
 
@@ -30,7 +30,7 @@ The Sober Curious movement made tangible. Non-alcoholic mocktails that genuinely
 
 ## Why This Book Matters
 
-This is the book that connects *The Brewing Bible* to **how people actually drink today**. While the other books preserve traditions, this book documents an emerging culture — one where:
+This is the book that connects the Bible to **how people actually drink today**. While the other books preserve traditions, this book documents an emerging culture — one where:
 
 - A cold-brew coffee bar replaces the morning espresso machine
 - A sparkling water tap replaces the soda fridge
@@ -82,14 +82,14 @@ We are **less likely** to merge contributions that:
 - Promote specific commercial spirit brands or proprietary syrup mixes without open alternatives
 - Make unverified health claims about caffeine, low-alcohol, or zero-proof drinks
 
-See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) and [`TEMPLATE.md`](../../TEMPLATE.md) at the repository root for the standard chapter format.
+See [\`CONTRIBUTING.md\`](../../CONTRIBUTING.md) and [\`TEMPLATE.md\`](../../TEMPLATE.md) at the repository root for the standard chapter format.
 
 ---
 
 ## Status
 
-This chapter is currently being populated. Founding-contributor recipes for cold-brew coffee, sparkling fruit water, and hard seltzer are being merged in batches. To author or review Book V material, please open an issue with the label `book-v-sparkling-creations`.
+This chapter is currently being populated. Founding-contributor recipes for cold-brew coffee, sparkling fruit water, and hard seltzer are being merged in batches. To author or review Book V material, please open an issue with the label \`book-v-sparkling-creations\`.
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The iGulu Home Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded by [Shu Zhang](https://github.com/iGulu666), founder of [iGulu](https://igulu.com).*
