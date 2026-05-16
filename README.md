@@ -4,20 +4,20 @@
 [![CLA: required](https://img.shields.io/badge/CLA-required-blue.svg)](./CLA.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-The world's first open-source home brewing and fermentation knowledge base. 1,000+ recipes covering Craft Beer, Fruit Wine, Probiotics, Cold Brew & Fermentation Lab. Community-contributed, iGulu-powered.
+The world's first open-source home brewing and fermentation knowledge base. 1,000+ recipes covering craft beer, wine, probiotics, cold-brew creations, and fermentation lab. Community-contributed, iGulu-powered.
 
 ---
 
 ## Six Books
 
-| Book | Title | Domain |
-|------|-------|--------|
-| I | [**Foundations**](./chapters/01_foundations) | Universal principles: water, microbes, sanitation, equipment, fermentation science |
-| II | [**Craft Beer**](./chapters/02_craft-beer) | Ales, lagers, stouts, IPAs, sours |
-| III | [**Fruit Wine & Wine**](./chapters/03_fruit-wine) | Grape wine, fruit wine, mead, cider, rice wine |
-| IV | [**Probiotics**](./chapters/04_probiotics) | Kombucha, kefir, yogurt, kvass, lacto-ferments |
-| V | [**Cold-Brew & Mixology**](./chapters/05_cold-brew) | Cold-brew coffee/tea, sparkling drinks, hard seltzer, zero-proof |
-| VI | [**Fermentation Lab**](./chapters/06_fermentation-lab) | Vinegar, miso, soy sauce, sake, koji |
+| Book | Title | Subtitle |
+|------|-------|----------|
+| I | [**Foundations**](./chapters/01_foundations) | The Universal Principles of Fermentation |
+| II | [**Craft Beer**](./chapters/02_craft-beer) | Ales, Lagers, Sours, and Specialty Brews |
+| III | [**Orchard & Vine**](./chapters/03_fruit-wine) | Wine, Fruit Wine, Mead, and Cider |
+| IV | [**The Living Culture**](./chapters/04_probiotics) | Kombucha, Kefir, Yogurt, and Lacto-Ferments |
+| V | [**Sparkling Creations**](./chapters/05_cold-brew) | Cold-Brew, Sparkling, Hard Seltzer, and Zero-Proof |
+| VI | [**Fermentation Lab**](./chapters/06_fermentation-lab) | Vinegar, Miso, Soy Sauce, Sake, and Koji |
 
 ---
 
