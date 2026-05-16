@@ -1,6 +1,6 @@
 # Contributors
 
-*The Brewing Bible is built by brewers and fermenters around the world.*
+*The iGulu Home Brewing Bible is built by brewers and fermenters around the world.*
 *This file recognizes everyone who has helped shape the project.*
 
 ---
@@ -13,9 +13,9 @@ If your name is missing or incorrect, please open an Issue labeled `contributors
 
 ---
 
-## Maintainer
+## Founder & Maintainer
 
-- **[Shu Zhang](https://github.com/iGulu666)** — Project Maintainer & Editor
+- **[Shu Zhang](https://github.com/iGulu666)** — Founder of iGulu, Project Maintainer & Editor
 
 ---
 
@@ -128,11 +128,11 @@ _To be populated as Verified Brews are submitted._
 
 ## Special Thanks
 
-*People who have supported the project in ways that don't fit a single tier — through advice, infrastructure, sponsorship, or community building.*
+*People and organizations who have supported the project in ways that don't fit a single tier — through advice, infrastructure, or community building.*
 
 <!-- SPECIAL_THANKS_START -->
 
-- **[iGulu (CytoEvo Inc.)](https://igulu.com)** — Founding sponsor; provider of hardware compatibility tooling and the primary commercial implementer of the Brewing Bible protocol.
+- **[iGulu](https://igulu.com)** — Provider of hardware compatibility tooling and the primary commercial implementer of the Bible recipes through F1, M-series, and F2 devices.
 
 <!-- SPECIAL_THANKS_END -->
 
