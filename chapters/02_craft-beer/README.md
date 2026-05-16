@@ -2,7 +2,7 @@
 
 > *"Where grain and water meet patience, beer is born."*
 
-Welcome to **Craft Beer** — the second book of *The Brewing Bible*.
+Welcome to **Craft Beer** — the second book of the *iGulu Home Brewing Bible*.
 
 If *Book I · Foundations* taught you the universal grammar of fermentation, this book teaches the most extensively documented dialect — the world of beer. From the abbey-brewed ales of medieval Belgium to the West Coast IPAs of 1990s California, beer is humanity's longest continuous brewing tradition, and the one where home brewers most easily find a thriving global community.
 
@@ -83,4 +83,4 @@ This chapter is currently being populated. Founding-contributor recipes are bein
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The iGulu Home Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded by [Shu Zhang](https://github.com/iGulu666), founder of [iGulu](https://igulu.com).*
