@@ -1,0 +1,75 @@
+name: 📖 Recipe Request
+description: Suggest a recipe you'd like to see in The Brewing Bible (or claim that you'll write it yourself).
+title: "[Recipe Request] <Recipe Name>"
+labels: ["recipe-request", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got a recipe you'd love to see in the Bible? Tell us about it. If you want to write it yourself, that's even better — claim it here to avoid duplicate efforts.
+
+  - type: input
+    id: recipe-name
+    attributes:
+      label: Recipe name
+      placeholder: e.g., "Hungarian Plum Pálinka" or "Korean Sikhye"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: book
+    attributes:
+      label: Which Book does this belong to?
+      options:
+        - "Book I — Foundations"
+        - "Book II — Craft Beer"
+        - "Book III — Fruit Wine & Wine"
+        - "Book IV — Probiotics"
+        - "Book V — Cold-Brew & Mixology"
+        - "Book VI — Fermentation Lab"
+        - "Not sure / spans multiple"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this recipe deserve a chapter?
+      description: What makes it interesting, important, or different from existing recipes? Cultural significance, technique innovation, regional rarity, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: knowledge
+    attributes:
+      label: What do you know about it?
+      description: History, traditional preparation, key ingredients, fermentation timeline — anything you can share.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: claim
+    attributes:
+      label: Do you want to write this recipe yourself?
+      options:
+        - "Yes — I want to claim and write this recipe"
+        - "No — I'm just suggesting it for others to consider"
+        - "Maybe — I'd like to collaborate if someone else takes the lead"
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or references (optional)
+      description: Books, articles, websites, or traditions you'd draw from. Help us understand whether the recipe will be original or substantially derived.
+    validations:
+      required: false
+
+  - type: input
+    id: github-username
+    attributes:
+      label: Your GitHub username
+      placeholder: "@your-username"
+    validations:
+      required: true
