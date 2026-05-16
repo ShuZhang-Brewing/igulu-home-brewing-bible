@@ -1,17 +1,17 @@
 # Contributor License Agreement (CLA)
 
-**Version 2.0 — Effective from 2026**
-**The Brewing Bible Project**
+**Version 2.1 — Effective from 2026**
+**iGulu Home Brewing Bible Project**
 
 ---
 
 ## TL;DR (Plain English)
 
-By contributing to The Brewing Bible, you are agreeing to the following, in plain terms:
+By contributing to the iGulu Home Brewing Bible, you are agreeing to the following, in plain terms:
 
 1. **You own what you wrote.** You keep full copyright over your contribution. Contributing to the Bible doesn't take your work away from you.
 2. **The world can read it for free.** Your contribution becomes part of an open-source work licensed under CC BY-NC-SA 4.0 — anyone can read, share, translate, and adapt it for non-commercial use, with you credited.
-3. **The maintainer can publish it commercially.** You grant Shu Zhang (the project maintainer) the right to include your contribution in printed editions, paid subscriptions, hardware integrations (including iGulu products), and other commercial uses — with you always credited as the author.
+3. **The maintainer can publish it commercially.** You grant Shu Zhang (the project maintainer and founder of iGulu) the right to include your contribution in printed editions, paid subscriptions, hardware integrations (including iGulu products), and other commercial uses — with you always credited as the author.
 4. **You can use your own work elsewhere.** You can publish your contribution on your blog, in your own book, in any other project. The Bible doesn't lock you out of your own work.
 5. **You can't undo it.** Once your contribution is merged, it remains part of the open-source record under CC BY-NC-SA 4.0 — this is how open licenses work, and it's what makes the Bible permanent.
 
@@ -21,9 +21,9 @@ If that sounds reasonable to you, you're ready to contribute. The full legal tex
 
 ## 1. Definitions
 
-**"The Project"** means The Brewing Bible, including its GitHub repository (currently hosted at `github.com/iGulu666/igulu-home-brewing-bible`), any official mirror or distribution platform, and any derivative or commercial editions thereof.
+**"The Project"** means the iGulu Home Brewing Bible, including its GitHub repository (currently hosted at `github.com/iGulu666/igulu-home-brewing-bible`), any official mirror or distribution platform, and any derivative or commercial editions thereof.
 
-**"Maintainer"** means Shu Zhang, an individual acting as steward and copyright administrator of The Brewing Bible. The Maintainer may, at their discretion, sublicense rights to CytoEvo Inc. (operating as iGulu) and other commercial partners as described in this Agreement.
+**"Maintainer"** means Shu Zhang, an individual acting as steward and copyright administrator of the iGulu Home Brewing Bible. The Maintainer may, at their discretion, sublicense rights to iGulu and other commercial partners as described in this Agreement.
 
 **"Contributor"** or **"You"** means the individual or legal entity submitting Content to the Project.
 
@@ -37,7 +37,7 @@ If that sounds reasonable to you, you're ready to contribute. The full legal tex
 
 ## 2. Copyright Retention by Contributor
 
-You retain full copyright and all moral rights over your Submission. Nothing in this Agreement transfers ownership of your Content to the Maintainer, to CytoEvo Inc., or to any other party.
+You retain full copyright and all moral rights over your Submission. Nothing in this Agreement transfers ownership of your Content to the Maintainer, to iGulu, or to any other party.
 
 You may continue to use, publish, sell, license, or otherwise exploit your own Content in any way you choose. Contribution to the Project places no restrictions on your independent use of your own work.
 
@@ -71,14 +71,14 @@ In addition to the public license granted in Section 3, You grant to the Maintai
 
 (c) Use the Submission and any derivative works in commercial contexts, including but not limited to:
 
-  - **Printed editions** of The Brewing Bible, sold commercially in any format and any market
+  - **Printed editions** of the iGulu Home Brewing Bible, sold commercially in any format and any market
   - **Premium digital subscriptions** providing enhanced access to Bible content
   - **Hardware product integrations**, including iGulu home brewing devices (F1, M-series, F2, and successor products), and integrations with third-party hardware
   - **Software applications** developed by the Maintainer or licensed parties
   - **Educational, training, and B2B services** based on Bible content
   - **Marketing and promotional uses** related to the foregoing
 
-(d) Sublicense any of the foregoing rights to commercial partners — including but not limited to CytoEvo Inc. (operating as iGulu) — for purposes consistent with the operation of the Project and the commercial development of products and services derived from it.
+(d) Sublicense any of the foregoing rights to commercial partners — including but not limited to iGulu — for purposes consistent with the operation of the Project and the commercial development of products and services derived from it.
 
 **This grant is non-exclusive.** You may grant the same or similar rights to other parties for your own contribution.
 
@@ -140,13 +140,7 @@ This Agreement, with respect to a given Submission, terminates only by mutual wr
 
 ---
 
-## 10. Governing Law
-
-This Agreement is governed by the laws of the State of Delaware, United States of America, without regard to its conflict-of-laws principles. Any dispute arising out of or related to this Agreement shall be resolved exclusively in the state or federal courts located in the State of Delaware.
-
----
-
-## 11. Acceptance
+## 10. Acceptance
 
 You accept this Agreement by:
 
@@ -164,6 +158,5 @@ If anything in this Agreement is unclear, or if you have questions about how it 
 
 ---
 
-**The Brewing Bible Project**
-Maintained by Shu Zhang.
-Founded with support from iGulu (CytoEvo Inc.).
+**iGulu Home Brewing Bible Project**
+Maintained by Shu Zhang (founder of iGulu).
