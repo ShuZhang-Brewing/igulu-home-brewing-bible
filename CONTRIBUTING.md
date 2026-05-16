@@ -1,6 +1,6 @@
-# Contributing to The Brewing Bible
+# Contributing to the iGulu Home Brewing Bible
 
-Thank you for considering a contribution. The Brewing Bible is built by brewers and fermenters around the world, and **every contribution matters** — from a single Verified Brew to a full recipe chapter.
+Thank you for considering a contribution. The iGulu Home Brewing Bible is built by brewers and fermenters around the world, and **every contribution matters** — from a single Verified Brew to a full recipe chapter.
 
 This guide tells you everything you need to know to participate.
 
@@ -111,9 +111,9 @@ Tiers are how the project recognizes the depth and impact of your contributions 
 |------|----------------|-------------------|
 | I. Foundations | `chapters/01_foundations` | Universal principles applicable across all fermentation traditions |
 | II. Craft Beer | `chapters/02_craft-beer` | Ales, lagers, sours, specialty beers |
-| III. Fruit Wine & Wine | `chapters/03_fruit-wine` | Grape wine, fruit wine, mead, cider, rice wine |
-| IV. Probiotics | `chapters/04_probiotics` | Kombucha, kefir, yogurt, kvass, lacto-ferments |
-| V. Cold-Brew & Mixology | `chapters/05_cold-brew` | Cold-brew, sparkling, hard seltzer, zero-proof |
+| III. Orchard & Vine | `chapters/03_fruit-wine` | Grape wine, fruit wine, mead, cider, rice wine |
+| IV. The Living Culture | `chapters/04_probiotics` | Kombucha, kefir, yogurt, kvass, lacto-ferments |
+| V. Sparkling Creations | `chapters/05_cold-brew` | Cold-brew, sparkling, hard seltzer, zero-proof |
 | VI. Fermentation Lab | `chapters/06_fermentation-lab` | Vinegar, miso, soy sauce, sake, koji-based ferments |
 
 If your contribution spans multiple books, open an Issue first — we'll help find the right home.
@@ -180,10 +180,10 @@ This is a project where everyone — beginner brewer, experienced fermenter, foo
 - **General questions**: open an Issue
 - **CLA or licensing questions**: open an Issue labeled `cla-question`
 - **Quick discussion**: join our Discord (link coming at public launch)
-- **Private matters**: contact the maintainer via email `legal@igulu.com`
+- **Private matters**: contact the maintainer at `legal@igulu.com`
 
 ---
 
 **Welcome to the Bible.** Your name might just end up in a book on someone's kitchen shelf in 2028.
 
-— Shu Zhang, Project Maintainer
+— Shu Zhang, founder of iGulu and project maintainer
