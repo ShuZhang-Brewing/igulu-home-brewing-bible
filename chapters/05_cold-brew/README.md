@@ -1,78 +1,69 @@
-# Book V · Cold-Brew & Mixology
+# Book V · Sparkling Creations
 
-> *"Pressure, time, and a little imagination — the drinks of a new century."*
+> *"Cold water, rising bubbles, and the spirit of invention."*
 
-Welcome to **Cold-Brew & Mixology** — the fifth book of *The Brewing Bible*.
+Welcome to **Sparkling Creations** — the fifth book of *The Brewing Bible*.
 
-This is the most modern book in the Bible. While *Craft Beer* traces back ten thousand years, *Fruit Wine* eight thousand, and *Fermentation Lab* further still — most of the drinks in this book did not exist in their current form fifty years ago. Cold-brew coffee as a daily ritual is a 21st-century invention. Hard seltzer is younger than smartphones. Low-and-no-ABV is the fastest-growing beverage category on Earth right now.
+This is the most **modern** book in the Bible — the one closest to the 21st-century kitchen, the home bar, and the way young brewers actually drink today. If *Book II · Craft Beer* and *Book III · Orchard & Vine* honor centuries-old traditions, this book honors a tradition that is still being invented: the cold-brew movement, the sparkling-water renaissance, the rise of hard seltzer, the Sober Curious wave, the home cocktail revival. It is the book of *creating* drinks rather than merely *brewing* them.
 
-This book is where the *Brewing Bible* meets the future of drinks.
-
-It is also the book where the **iGulu system shines most distinctively**. Cold extraction, controlled carbonation, and precision temperature management are exactly what household fermentation has historically lacked — and exactly what iGulu was designed for. If there is a single chapter that justifies owning the machine, it lives in this book.
+This is where the home brewer becomes a home bartender, a flavor designer, a creator of moments.
 
 ---
 
 ## What This Chapter Covers
 
-Book V is organized around five families of modern drinks:
+Book V is organized around four families of modern beverage creation:
 
-### 1. Cold-Brew Coffee
-The slow extraction of coffee in cold water — 12 to 24 hours, no heat, dramatically lower acidity, a fundamentally different flavor profile than hot brew. We cover ratios, grind sizes, single-origin sourcing, concentrate vs. ready-to-drink dilutions, and the often-overlooked science of cold extraction kinetics.
+### 1. Cold-Brew — Coffee, Tea, and Beyond
+Cold-brewed coffee in its many forms: smooth concentrate, nitro coffee, oat-milk lattes built on cold-brew base. Cold-brewed teas: long-extracted black, green, oolong, and herbal infusions. The science of cold extraction — why slow water at low temperature produces a fundamentally different flavor profile than hot brewing.
 
-### 2. Cold-Brew Tea & Botanical Infusions
-The same cold-water extraction logic, applied to tea, herbs, hibiscus, dried fruit, and spice blends. Sparkling jasmine tea. Cold-brewed earl grey. Hibiscus-ginger refreshers. These bridge naturally into mixology cocktails and zero-proof drinks.
+### 2. Sparkling Waters & Carbonated Creations
+Home carbonation techniques: SodaStream-style force carbonation, natural carbonation through wild ferments, the iGulu system's controlled CO₂ infusion. Flavored sparkling waters, fruit-infused soda, herbal sparklers, classic Italian shrub sodas. The chemistry of CO₂ dissolution and the art of bubble texture.
 
-### 3. Sparkling & Carbonation Science
-The chemistry of CO₂ in liquid: pressure equilibria, dissolution kinetics, what makes a soda "lively" vs. flat. Force carbonation. Natural carbonation from secondary fermentation (the bridge back to *Book II · Craft Beer* and *Book IV · Probiotics*). Carbonation troubleshooting — why your homemade soda goes flat in three days.
+### 3. Hard Seltzer & Light Alcohol
+The hard seltzer revolution — neutral fermentation, fruit infusion, clean carbonation. Light ABV creations that bridge non-alcoholic and traditional alcoholic worlds. Spiked sparkling teas. Kombucha cocktails. Low-ABV summer drinks that prioritize refreshment over intoxication.
 
-### 4. Hard Seltzer & Low-ABV Sparkling Drinks
-The category that broke the beverage industry in the 2010s. Sugar fermentation to clean ethanol, neutral fermentation base, fruit and botanical flavoring. We cover both "true" fermented hard seltzers and quick-mix alternatives. Includes the rapidly growing "low-ABV adult sparkling" category — 0.5–3% ABV drinks designed to replace cocktails without replacing the social ritual.
-
-### 5. Zero-Proof & Mixology
-The Dry January, Sober Curious, and zero-proof movements have created a wave of sophisticated non-alcoholic drinks. We cover non-alcoholic spirits, shrubs (fruit-vinegar drinking syrups — bridging into *Book VI*), kombucha cocktails (bridging back to *Book IV*), and the broader craft of mixing cold-brew, sparkling, and fermented bases into finished drinks.
+### 4. Zero-Proof & Modern Mixology
+The Sober Curious movement made tangible. Non-alcoholic mocktails that genuinely taste like cocktails. Botanical infusions, shrubs, and switchel. Verjus and other non-alcoholic acid sources. The art of building complex flavor without alcohol — and the modern home bar that serves both drinkers and non-drinkers equally well.
 
 ---
 
-## Why This Book Is Different
+## Why This Book Matters
 
-Most of the other books in the Bible follow the **fermentation arc**: ingredients in, microbes work, drink out. This book breaks that pattern. Half the chapters here involve no fermentation at all — they're about *extraction* (cold-brew) and *carbonation* (sparkling), which are physical-chemical processes rather than biological ones.
+This is the book that connects *The Brewing Bible* to **how people actually drink today**. While the other books preserve traditions, this book documents an emerging culture — one where:
 
-Why include them in a brewing Bible? Because in practice, the same people who brew kombucha also make cold-brew. The same people who care about good craft beer also care about a good non-alcoholic Saturday afternoon drink. The same kitchen tools — clean water, precise temperatures, sealed pressurized vessels — serve both worlds. Splitting these into separate disciplines is a marketing artifact, not a kitchen reality.
+- A cold-brew coffee bar replaces the morning espresso machine
+- A sparkling water tap replaces the soda fridge
+- A hard seltzer cooler replaces the beer cooler at summer parties
+- A zero-proof shelf sits alongside the spirits cabinet
 
-This book is also where **the future of social drinking** is being written. As global alcohol consumption trends downward and global interest in functional, low-sugar, low-alcohol drinks trends upward, the recipes in this book may well outsell every other book combined within a decade.
+It is also the most **creator-oriented** book. While other books teach you to follow recipes faithfully, this book teaches you to invent — to combine cold-brew + sparkling + botanical + a touch of acidity into something that didn't exist before you made it. The word *Creations* in this book's title is deliberate: this is not a book about reproducing existing drinks, but about creating new ones.
 
 ---
 
 ## How This Book Connects to iGulu
 
-Cold-brew and sparkling drinks are uniquely demanding of equipment. They need:
+The iGulu system's precise temperature control, controlled CO₂ infusion, and tap-style serving make it particularly well-suited to this book's content. RFID recipe packs in this book will cover:
 
-- **Stable cold-side temperature control** (4–10 °C for extraction, 0–4 °C for carbonation efficiency)
-- **Pressure-rated vessels** for both force carbonation and serving
-- **Cleanliness on par with beer** — sweetened, low-alcohol environments are bacterial playgrounds
-- **Precision dosing** for botanical infusions and flavor balancing
+- Cold-brew coffee and tea concentrates — 12–24 hour timelines
+- Sparkling fruit waters and flavored sodas — 1–3 day timelines
+- Hard seltzers (lemon-lime, peach, watermelon) — 7–14 day timelines
+- Kombucha cocktails and zero-proof creations — variable timelines
 
-The iGulu system provides all of these. RFID recipe packs in this book will cover:
-
-- Single-origin cold-brew coffee (3 grind/ratio standards)
-- Sparkling cold-brew tea (jasmine, earl grey, hibiscus)
-- Hard seltzer base + flavor pack combinations
-- Low-ABV botanical sparkling sets
-
-Where the iGulu system shines: closed-loop cold extraction with consistent results, force carbonation without dedicated kegerator hardware, and the ability to layer flavors with controlled dosing.
+Where the iGulu system shines: precise cold extraction at 3–8 °C, controlled CO₂ carbonation up to 4 volumes, and the home-bar experience of pouring fresh creations on demand.
 
 ---
 
 ## How to Read This Book
 
-This is the most beginner-friendly book in the Bible, and we recommend it for **anyone hesitant about home fermentation**. Cold-brew coffee, in particular, is essentially impossible to fail — if you can fill a jar with water and grounds, you can make excellent cold-brew. From there, the path to sparkling tea, then to hard seltzer, then to mixology, is shorter than people expect.
+This book is the most beginner-accessible for anyone who wants results within 24 hours. We recommend:
 
-Suggested order:
+1. Start with **cold-brew coffee** — overnight steep, immediate reward, almost impossible to fail.
+2. Try a **sparkling fruit water** — combines simple syrup, fresh fruit, and carbonation in one session.
+3. Move to **hard seltzer** when you're comfortable with multi-day fermentation timelines.
+4. Explore **mocktails and mixology** as your flavor confidence grows.
 
-1. Start with **cold-brew coffee** — one batch, one weekend, near-zero failure risk.
-2. Move to **cold-brew tea** with carbonation — your first encounter with pressure and CO₂.
-3. Try a **hard seltzer base** — your first fermentation in this book, but very forgiving.
-4. Explore **mixology and zero-proof** — combine techniques across this book and *Book IV · Probiotics*.
+You don't need to read this book in order — each section stands alone.
 
 ---
 
@@ -80,16 +71,16 @@ Suggested order:
 
 We welcome contributions that:
 
-- Document cold-extraction parameters with measurable outcomes (TDS, pH, etc.)
-- Provide reproducible sparkling and carbonation procedures
-- Bridge into low/no-ABV trends with credible nutritional and sensory data
-- Cover regional non-alcoholic traditions (Mexican *aguas frescas*, East Asian fruit teas, etc.)
+- Document innovative cold-brew or cold-extraction techniques
+- Provide tested, reproducible recipes for hard seltzers and low-ABV drinks
+- Share original mocktail and zero-proof creations with full ingredient details
+- Cover regional or cultural sparkling-drink traditions (shrubs, switchel, Italian sodas, Asian fruit teas)
 
 We are **less likely** to merge contributions that:
 
-- Treat cold-brew as merely "iced coffee" without engaging with extraction science
-- Promote a specific commercial product line over open methods
-- Skip food-safety considerations for sweetened low-alcohol drinks
+- Are simple flavor variations of existing recipes
+- Promote specific commercial spirit brands or proprietary syrup mixes without open alternatives
+- Make unverified health claims about caffeine, low-alcohol, or zero-proof drinks
 
 See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) and [`TEMPLATE.md`](../../TEMPLATE.md) at the repository root for the standard chapter format.
 
@@ -97,8 +88,8 @@ See [`CONTRIBUTING.md`](../../CONTRIBUTING.md) and [`TEMPLATE.md`](../../TEMPLAT
 
 ## Status
 
-This chapter is currently a placeholder. Founding-contributor draft recipes will be merged in the coming weeks. To author or review Book V material, please open an issue with the label `book-v-cold-brew`.
+This chapter is currently being populated. Founding-contributor recipes for cold-brew coffee, sparkling fruit water, and hard seltzer are being merged in batches. To author or review Book V material, please open an issue with the label `book-v-sparkling-creations`.
 
 ---
 
-*The Brewing Bible is an open-source project. Licensed CC BY-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
+*The Brewing Bible is an open-source project. Licensed CC BY-NC-SA 4.0 for content, MIT for code. Founded with support from [iGulu](https://igulu.com).*
