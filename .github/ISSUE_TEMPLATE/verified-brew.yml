@@ -1,0 +1,115 @@
+name: 🍺 Verified Brew
+description: Confirm you brewed an existing recipe and share your feedback. Earns Apprentice credit.
+title: "[Verified Brew] <Recipe Name>"
+labels: ["verified-brew", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for brewing from The Brewing Bible! Your real-world feedback is what makes every recipe trustworthy.
+        
+        **5-minute commitment.** Fill in what you can. Photos are encouraged but not required.
+
+  - type: input
+    id: recipe-name
+    attributes:
+      label: Which recipe did you brew?
+      description: Recipe title and the Book it lives in (e.g., "West Coast IPA" in Book II)
+      placeholder: West Coast IPA — Book II
+    validations:
+      required: true
+
+  - type: input
+    id: recipe-path
+    attributes:
+      label: Recipe file path (if you have it)
+      description: e.g., chapters/02_craft-beer/west-coast-ipa.md
+      placeholder: chapters/02_craft-beer/west-coast-ipa.md
+    validations:
+      required: false
+
+  - type: dropdown
+    id: rating
+    attributes:
+      label: Overall rating
+      description: How did it turn out?
+      options:
+        - "⭐⭐⭐⭐⭐ Excellent — would brew again"
+        - "⭐⭐⭐⭐ Very good with minor notes"
+        - "⭐⭐⭐ Good but room for improvement"
+        - "⭐⭐ Mixed results"
+        - "⭐ Did not turn out as expected"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: equipment
+    attributes:
+      label: What equipment did you use?
+      options:
+        - iGulu F1
+        - iGulu M-series
+        - iGulu F2
+        - Other home brewing setup (please specify in notes)
+        - Improvised / minimal equipment
+    validations:
+      required: true
+
+  - type: textarea
+    id: flavor-notes
+    attributes:
+      label: Flavor and result notes
+      description: Aroma, taste, mouthfeel, appearance — anything notable.
+      placeholder: |
+        Aroma: Bright citrus, pine resin
+        Taste: Crisp bitter finish, hint of grapefruit
+        Mouthfeel: Medium body, clean
+        Appearance: Hazy golden
+    validations:
+      required: true
+
+  - type: textarea
+    id: deviations
+    attributes:
+      label: Did you deviate from the recipe?
+      description: Substituted an ingredient, changed timings, scaled up/down? Tell us.
+      placeholder: e.g., "Substituted Cascade for Centennial; fermented at 19°C instead of 20°C"
+    validations:
+      required: false
+
+  - type: textarea
+    id: photos
+    attributes:
+      label: Photos (drag and drop)
+      description: Photos of your brew dramatically improve the value of Verified Brews. Drag images into this field or paste image URLs.
+    validations:
+      required: false
+
+  - type: textarea
+    id: improvement-suggestions
+    attributes:
+      label: Suggestions for improving the recipe
+      description: What would you change in the recipe based on your experience?
+    validations:
+      required: false
+
+  - type: input
+    id: github-username
+    attributes:
+      label: Your GitHub username (for credit)
+      description: This will appear in the Verified Brewers section of CONTRIBUTORS.md
+      placeholder: "@your-username"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmations
+      options:
+        - label: I actually brewed this recipe (not a hypothetical review)
+          required: true
+        - label: My feedback is honest and shared in good faith
+          required: true
+        - label: I have read and agree to the [CLA](../../blob/main/CLA.md)
+          required: true
