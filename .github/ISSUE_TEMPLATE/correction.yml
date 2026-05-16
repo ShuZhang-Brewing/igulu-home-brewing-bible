@@ -1,0 +1,74 @@
+name: ✏️ Correction or Improvement
+description: Report an error, suggest a clearer explanation, or propose a fix to an existing recipe.
+title: "[Correction] <Recipe Name> — <brief issue>"
+labels: ["correction", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found a typo, a wrong measurement, or something that could be explained more clearly? Thank you. This is one of the most valuable ways to help the Bible.
+        
+        **Note**: If your fix is small and you're comfortable with GitHub, please consider submitting it directly as a Pull Request instead of an Issue. Both are welcome.
+
+  - type: input
+    id: recipe-path
+    attributes:
+      label: Which recipe?
+      description: File path or recipe name
+      placeholder: chapters/02_craft-beer/west-coast-ipa.md
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: How serious is this?
+      options:
+        - "🔴 Critical — incorrect could cause failure or safety issue"
+        - "🟡 Important — wrong info that affects results"
+        - "🔵 Minor — typo, formatting, or unclear wording"
+        - "🟢 Suggestion — not wrong, but could be improved"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What's currently written
+      description: Quote the current text or describe what's there now.
+      render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed
+    attributes:
+      label: What you propose instead
+      description: Your suggested replacement or fix.
+      render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or reasoning (if applicable)
+      description: References, your own experiments, citations — anything that supports the correction.
+    validations:
+      required: false
+
+  - type: input
+    id: github-username
+    attributes:
+      label: Your GitHub username
+      placeholder: "@your-username"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have read and agree to the [CLA](../../blob/main/CLA.md)
+          required: true
