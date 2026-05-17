@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./iGulu%20Home%20Brewing%20Bible%20Cover.png" alt="iGulu Home Brewing Bible — Six Books on Home Brewing and Fermentation" width="100%">
+  <img src="./cover.png" alt="iGulu Home Brewing Bible — Six Books on Home Brewing and Fermentation" width="100%">
 </p>
 
 # iGulu Home Brewing Bible
