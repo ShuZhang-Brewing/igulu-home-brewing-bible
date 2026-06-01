@@ -13,9 +13,9 @@ igulu_compatible: true
 status: "draft"
 description: "Porter is the original dark beer — the style that taught London how to drink, gave 18th-century brewers the first industrialized brewery, and seeded a…"
 keywords: ["Porter", "homebrew recipe", "iGulu", "USA/UK"]
-hero_image: "/images/bible/porter-hero.jpg"
-images: ["/images/bible/porter-hero.jpg", "/images/bible/porter-ingredients.jpg", "/images/bible/porter-process.jpg", "/images/bible/porter-serving.jpg"]
-date: "2026-06-01"
+hero_image: "/assets/chapters/02_craft-beer/porter-hero.jpg"
+images: ["/assets/chapters/02_craft-beer/porter-hero.jpg", "/assets/chapters/02_craft-beer/porter-ingredients.jpg", "/assets/chapters/02_craft-beer/porter-process.jpg", "/assets/chapters/02_craft-beer/porter-serving.jpg"]
+date: "2026-06-02"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -30,7 +30,7 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-![Porter — hero](/images/bible/porter-hero.jpg)
+![Porter — hero](/assets/chapters/02_craft-beer/porter-hero.jpg)
 
 
 
@@ -169,7 +169,7 @@ Porter is a **caloric beverage**, not a health drink. The dark color carries som
 
 ## 5. Ingredients
 
-![Porter — ingredients](/images/bible/porter-ingredients.jpg)
+![Porter — ingredients](/assets/chapters/02_craft-beer/porter-ingredients.jpg)
 
 This recipe targets a **5 gal / 19 L batch of American Porter** at approximately **OG 1.054 / FG 1.014 / 5.3% ABV / 35 IBU / 30 SRM**. Adapt to other sub-styles using the grain and yeast substitutions in Section 9.
 
@@ -248,7 +248,7 @@ For most home brewers, **filtered tap water with 1 teaspoon (5 g) calcium chlori
 
 ## 6. Process
 
-![Porter — process](/images/bible/porter-process.jpg)
+![Porter — process](/assets/chapters/02_craft-beer/porter-process.jpg)
 
 ### Equipment
 
@@ -527,7 +527,7 @@ For drivers, pregnant brewers, or anyone wanting the flavor without the alcohol:
 
 ## 10. Food Pairings
 
-![Porter — serving](/images/bible/porter-serving.jpg)
+![Porter — serving](/assets/chapters/02_craft-beer/porter-serving.jpg)
 
 Porter is one of the most food-friendly beers ever brewed — the dry finish and chocolate-coffee aromatics bridge sweet and savory better than almost any other style.
 
@@ -553,4 +553,4 @@ Porter is one of the most food-friendly beers ever brewed — the dry finish and
 
 ---
 
-*© 2026-06-01 CytoEvo Inc. · iGulu Home Brewing Bible · English Draft · Contributor: Shu Zhang (Grand Master)*
+*© 2026-06-02 CytoEvo Inc. · iGulu Home Brewing Bible · English Draft · Contributor: Shu Zhang (Grand Master)*
